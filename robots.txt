@@ -1,1 +1,1 @@
-Sitemap: /https://ahkevinxy.github.io/jekyll-bookshop-blog/sitemap.xml
+Sitemap: /sitemap.xml
